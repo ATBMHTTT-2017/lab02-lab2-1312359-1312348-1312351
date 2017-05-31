@@ -14,8 +14,8 @@ Sinh viên check vào các mục bên dưới và ghi mã sinh viên đã làm v
 Yêu cầu **GIT**
 * [x] Có sử dụng GIT.
 * [x] Sử dụng GIT theo Centralized Workflow.
-* [x] Sử dụng GIT theo Feature Branch Workflow.
-* [x] Sử dụng GIT theo Gitflow Workflow.
+* [ ] Sử dụng GIT theo Feature Branch Workflow.
+* [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **bắt buộc**
 * [x] Viết script tạo cấu trúc cơ sở dữ liệu (**1312348**)
